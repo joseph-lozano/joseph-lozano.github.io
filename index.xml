@@ -9,14 +9,5 @@
 	<atom:link href="https://joseph-lozano.com/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>My First Post</title>
-      <link>https://joseph-lozano.com/posts/my-first-post/</link>
-      <pubDate>Wed, 30 Oct 2019 16:39:24 -0400</pubDate>
-      
-      <guid>https://joseph-lozano.com/posts/my-first-post/</guid>
-      <description>Hello world</description>
-    </item>
-    
   </channel>
 </rss>
